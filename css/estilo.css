@@ -1,0 +1,203 @@
+body
+{
+    margin:  0;
+    font-size: 20px;
+    color: #4d4d4d;
+    line-height: 1.44em;
+}
+
+section
+{
+    padding: 4em 1em;
+    overflow: hidden;
+    display: block;
+}
+
+section img
+{
+    max-width: initial;
+    display: block;
+    margin: 1em auto;
+}
+
+h1
+{
+    font-size: 1.777em;
+    line-height: 1.2em;
+}
+
+footer
+{
+    color: #999;
+    font-size:  .8em;
+    margin: 4em 1em;
+    text-align: center;
+    display:  block;
+}
+
+footer ul
+{
+    list-style:  none;
+    margin:  4em 1em;
+    padding: 0;
+}
+
+footer li
+{
+    display: inline-block;
+    margin: 0 .4em;
+}
+
+.seccion
+{
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
+.seccion img
+{
+    display: block;
+    margin: 1em auto;
+    max-width: initial;
+}
+
+.centrar-texto
+{
+    text-align: center;
+}
+
+.seccion-texto
+{
+    display: block;
+    max-width:  585px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.seccion-azul
+{
+    background: #0079bf;
+    color: #fff;
+}
+
+.seccion-azulclaro
+{
+    background: #e4f0f6;
+}
+
+.seccion-azulfuerte
+{
+    background: #42548e;
+    color: #fff;
+}
+
+.seccion-imagen img
+{
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 2em 3em 2em;
+}
+
+.seccion-division
+{
+    margin:  0 auto;
+    max-width: 890px;
+    position: relative;
+}
+
+.derecha
+{
+    left: 640px;
+    position: absolute;
+    top: -3em;
+}
+
+.derechados
+{
+    margin-left: 315px;
+    width: 585px;
+}
+
+.derechatres
+{
+    margin-left: 315px;
+    width: 585px;
+}
+
+
+
+.izquierda
+{
+    max-width: 575px;
+}
+
+.izquierdados
+{
+    right:  640px;
+    top: -1em;
+    position: absolute;
+}
+
+.izquierdatres
+{
+    right:  640px;
+    top: -4em;
+    position: absolute;
+}
+.link 
+{
+    color: #999; 
+}
+.boton
+{
+    border-radius: .3em;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom:  .8em;
+    padding:  .6em 1.3em;
+    text-decoration: none;
+}
+
+.boton-verde
+{
+    background: linear-gradient(to bottom, #61bd4f 0, #5aac44 100%);
+    box-shadow: 0 2px 0 #3f6f21;
+    color: #fff;
+}
+
+.boton-azul
+{
+    border: 1px solid;
+    border-radius: .3em;
+    display: inline-block;
+    margin: .6em 0;
+    padding: .6em 1em;
+    text-decoration: none;
+    color: #5e98ba;
+}
+
+
+.appstore
+{
+    display: inline-block;
+    margin:  .4em 1em 0 0;
+    vertical-align: top;
+}
+
+
+.enlinea
+{
+    max-width: 585px;
+}
+
+.encabezado
+{
+    padding-bottom: 2em;
+}
+
+.logos img
+{
+    height: 60px;
+    display: inline-block;
+    margin: 0 1em 1em;
+}
